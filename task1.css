@@ -1,0 +1,61 @@
+body{
+    font-family: monospace;
+}
+img {
+    max-width: 100%;
+}
+
+.logo {
+    width: 70px;
+    margin: 10px;
+}
+
+
+p {
+    padding: 10px;
+    margin: 0;
+}
+
+header {
+    background-color: #fefefd;
+}
+
+section {
+    background-color: #fefefd;
+}
+footer{
+    text-align: center;
+    background-color: rgb(22, 22, 26);
+    color: azure;
+    height: 50px;
+    padding-top: 1rem;
+}
+
+@media screen and (min-width:480px){
+    .pic{
+        width: 100%;
+    }
+}
+@media screen and (min-width:800px){
+    .pic{
+        width: 100%;
+    }
+    <div
+}
+@media (min-width: 1025px) {
+    .images {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        max-width: 100%;
+    }
+}
+    
+@media (min-width: 801px) and (max-width: 1024px) {
+    
+    .images {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+ 
+   
